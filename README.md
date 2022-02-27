@@ -1,7 +1,7 @@
 # Student-Info-Management-MERN-Stack-Project
 
 
-The idea of the project is take to Student Info management system where student data can be stored in database and the whole student list can be shown in the frontend. If a student data is deleted in frontEnd it will also be removed from the database. 
+The idea of the project is to make a Student Info management system where student data can be stored in database and the whole student list can be shown in the frontend. If a student data is deleted in frontEnd it will also be removed from the database. 
 
 
 
